@@ -1,6 +1,19 @@
+<table>
+<tr>
+<td width="110">
+  <img src="https://github.com/user-attachments/assets/be30ae36-e762-4e50-8b3d-d2638521c735" width="90" alt="Sahil Kale">
+</td>
+<td>
+
 # SAHIL KALE
 
 ### AI Engineer & Researcher Building Trustworthy and Reliable AI
+
+</td>
+</tr>
+</table>
+
+
 
 Currently pursuing an **M.S. in Computer Science at UCLA**, with research spanning LLM self-knowledge, hallucination detection, uncertainty calibration, and AI-powered information retrieval. I am open to research collaborations and AI research & engineering opportunities for 2027, please do not hesitate to reach out!
 
